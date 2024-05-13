@@ -1,0 +1,12 @@
+xformers==0.0.25
+diffusers["torch"]
+transformers
+peft
+accelerate
+git+https://github.com/huggingface/diffusers
+opencv-python
+controlnet_aux
+scipy
+ftfy
+gradio==3.50.0
+gitpython
